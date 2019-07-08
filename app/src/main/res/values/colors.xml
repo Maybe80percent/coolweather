@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#708090</color>
+    <color name="colorPrimaryDark">#8DB6CD</color>
+    <color name="colorAccent">#9FB6CD</color>
+
+    <color name="green">#C9FF59</color>
+    <color name="blue">#4AFFCF</color>
+    <color name="prue">#DF32FF</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+
+    <!--cardView 实例中的颜色-->
+    <color name="color_0">#708090</color>
+    <color name="color_1">#8DB6CD</color>
+    <color name="color_2">#9FB6CD</color>
+    <color name="color_3">#D1EEEE</color>
+    >
+</resources>
